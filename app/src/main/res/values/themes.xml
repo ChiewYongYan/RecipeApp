@@ -1,0 +1,6 @@
+
+<resources>
+<style name="Theme.RecipeApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <item name="colorPrimary">#3BBB96</item> <!-- Change to your desired color -->
+</style>
+</resources>

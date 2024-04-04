@@ -1,0 +1,8 @@
+<!-- res/values/recipetypes.xml -->
+<resources>
+    <string-array name="recipe_types">
+        <item>Rice</item>
+        <item>Soup</item>
+        <item>Dessert</item>
+    </string-array>
+</resources>
